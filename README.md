@@ -9,7 +9,6 @@
         
 </div>
 
-
 <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
         Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
@@ -59,8 +58,8 @@
 <div>
         <h2> More About ME: 👇 </h2>
         <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on Frontend Development</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I’m currently learning Web Designing</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 I’m looking to collaborate on Remote work in the Web Designing</h4>
+        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I’m exploring every dimension of Web Designing</h4>
+        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 I’m looking to collaborate on Remote work in the Web Designing domain</h4>
         <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I’m looking for help in getting some new opportunities</h4>
         <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about UI/UX or anything related to Front-end related stuff</h4>
         <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ⚡ Fun fact: Love to think fundamentally about anything. </h4>
@@ -69,15 +68,18 @@
 
 <div>
         <h2>📫 How to reach me: </h2>
-        <img src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1620743567~hmac=4180588fff66e13799da138294159abe" width="80px"> <a href="https://www.w3schools.com">Visit W3Schools</a> 
-        <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620743054~hmac=3adeea8afe98c7c7bbc623eb3ba9f6b3" width="80px">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="80px">
-        <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1620742885~hmac=28980d9316dd8b06e10794d92b799dbe" width="80px">
-        <img src="https://www.flaticon.com/svg/vstatic/svg/187/187210.svg?token=exp=1620743257~hmac=c597cfeea313ba092942d2de337cf4b7" width="80px">
+        <img src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1620743567~hmac=4180588fff66e13799da138294159abe" width="20px"> 
+        Email me at👉<b><i>'iamasish3001@gmail.com'</i></b>
         <br>
-        [Twitter 👉 @thegareebcoder](https://twitter.com/thegareebcoder) ; <br>
-        [Youtube 👈](https://www.youtube.com/channel/UCpU1xuhqQqLfaYEtenPJIDw) ; <br>
-        [Medium 👉 @asishraz](https://asishraz.medium.com/) ;      <br>
+        <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620743054~hmac=3adeea8afe98c7c7bbc623eb3ba9f6b3" width="20px">
+        Know my work experience at 👉<b><i>'https://www.linkedin.com/in/asish-raz-75b38411b/'</i></b>
+        <br>
+        <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="20px">
+        Read my stuff at 👉<b><i>'https://asishraz.medium.com/'</i></b>
+        <br>
+        <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1620742885~hmac=28980d9316dd8b06e10794d92b799dbe" width="20px">
+        Tech and Fun 👉<b><i>'https://twitter.com/thegareebcoder</i></b>
+        <br>
         
 </div>
 <hr>
@@ -87,6 +89,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">
 
+<hr>
+
+<h2> 👇 Let me know, in case you need further details: 🙌 <blockquote> iamasish3001@gmail.com </blockquote></h2>
+<br>
 <hr>
 
 <img src="https://raw.githubusercontent.com/asishraz/UI_revision/master/Portfolio/end.gif" width="100%">

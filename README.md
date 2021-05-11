@@ -1,12 +1,38 @@
-### Welcome to my Profile 👋
+<hr>
+<img src="https://raw.githubusercontent.com/asishraz/UI_revision/master/Portfolio/text.gif">
 <hr>
 
+<div>
+        <img src="https://avatars.githubusercontent.com/u/43290043?s=400&u=f89c10cd6eed00928f6e23c2e1d47f4d8f6bc57d&v=4" alt="waylon walker header" width="240px">
+        <img src="https://media4.giphy.com/media/5XgKMD8Zqi405fw6CD/giphy.gif?cid=790b76119ab5810bf024fb24fae6a635bec078fe459cd345&rid=giphy.gif&ct=g" width="440px" height="240px">
+        <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="240px">
+        
+</div>
+
+
+<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+        Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+</h1>
+<hr>
+<h2> My name is Asish and I am from Patna, Bihar 🏙 🌆 </h2>
+
+<hr>
+
+
+
+
+<!-- for showing top 5 languages used in github -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
+
+
+
+
 <div> 
-        <h2> Short Intro: </h2>
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Software Developer with a huge interest in Web Designing </h4> 
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Tendency of solving problems with the programming mindset</h4>
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Core Interest in CSS and Javascript</h4>
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Looking for the opportunities where I can expand my learnings and improve my vision of execution.</h4>
+        <h2> My Short Intro: </h2>
+                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Software Developer with a huge interest in Web Designing 🕸 </h4> 
+                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Tendency of solving problems with the programming mindset 🧠 </h4>
+                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Core Interest in CSS and Javascript ⚙ </h4>
+                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Looking for the opportunities where I can expand my learnings and improve my vision of execution. </h4>
 </div>
 <hr>
 
@@ -42,19 +68,22 @@
 
 <div>
         <h2>📫 How to reach me: </h2>
-        <img src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1620743567~hmac=4180588fff66e13799da138294159abe" width="80px"><a href="www.youtube.com">
+        <img src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1620743567~hmac=4180588fff66e13799da138294159abe" width="80px">  
         <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620743054~hmac=3adeea8afe98c7c7bbc623eb3ba9f6b3" width="80px">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="80px">
         <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1620742885~hmac=28980d9316dd8b06e10794d92b799dbe" width="80px">
         <img src="https://www.flaticon.com/svg/vstatic/svg/187/187210.svg?token=exp=1620743257~hmac=c597cfeea313ba092942d2de337cf4b7" width="80px">
-        
+        <br>
+        [Twitter 👉 @thegareebcoder](https://twitter.com/thegareebcoder) ; <br>
+        [Youtube 👈](https://www.youtube.com/channel/UCpU1xuhqQqLfaYEtenPJIDw) ; <br>
+        [Medium 👉 @asishraz](https://asishraz.medium.com/) ;      <br>
         
 </div>
+<hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=asishraz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h2> My Github Stats </h2>
+<hr>
 
-[Twitter 👉 @thegareebcoder](https://twitter.com/thegareebcoder) ;
-[Youtube 👈](https://www.youtube.com/channel/UCpU1xuhqQqLfaYEtenPJIDw) ;
-[Medium 👉 @asishraz](https://asishraz.medium.com/) ;
+<img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">
 
-
+<hr>

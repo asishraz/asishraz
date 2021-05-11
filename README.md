@@ -95,7 +95,7 @@
 <ul> 
         <li> 🥇 Won a Hackathon held by Gojek </li>
         <li> 👨‍ Been Culture Manager alognwith Developer in my first startup </li>
-        <li> 🚴‍ Completed 100Kms cycle marathon in 6 hrs</li>
+        <li> 🚴‍ Finished 100Kms cycle marathon in 6 hrs</li>
         <li> 🎙 Performed few storytelling and open mic events </li>
 </ul>
 

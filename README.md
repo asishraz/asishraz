@@ -3,9 +3,9 @@
 <hr>
 
 <div>
-        <img src="https://avatars.githubusercontent.com/u/43290043?s=400&u=f89c10cd6eed00928f6e23c2e1d47f4d8f6bc57d&v=4" alt="waylon walker header" width="240px">
-        <img src="https://media4.giphy.com/media/5XgKMD8Zqi405fw6CD/giphy.gif?cid=790b76119ab5810bf024fb24fae6a635bec078fe459cd345&rid=giphy.gif&ct=g" width="440px" height="240px">
-        <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="240px">
+        <img src="https://avatars.githubusercontent.com/u/43290043?s=400&u=f89c10cd6eed00928f6e23c2e1d47f4d8f6bc57d&v=4" alt="waylon walker header" width="220px">
+        <img src="https://media4.giphy.com/media/5XgKMD8Zqi405fw6CD/giphy.gif?cid=790b76119ab5810bf024fb24fae6a635bec078fe459cd345&rid=giphy.gif&ct=g" width="420px" height="240px">
+        <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="220px">
         
 </div>
 

@@ -69,7 +69,7 @@
 
 <div>
         <h2>📫 How to reach me: </h2>
-        <img src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1620743567~hmac=4180588fff66e13799da138294159abe" width="80px">  
+        <img src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1620743567~hmac=4180588fff66e13799da138294159abe" width="80px"><a href="www.facebook.com">Click me</a>
         <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620743054~hmac=3adeea8afe98c7c7bbc623eb3ba9f6b3" width="80px">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="80px">
         <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1620742885~hmac=28980d9316dd8b06e10794d92b799dbe" width="80px">

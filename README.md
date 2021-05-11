@@ -49,6 +49,7 @@
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183673.svg" width="80px">
         <img src="https://www.flaticon.com/svg/vstatic/svg/919/919832.svg?token=exp=1620741448~hmac=52e59d945d330876ca6801f91497b793" width="80px">
         <img src="https://camo.githubusercontent.com/d3b17e5f763adf2eaaa9e6ca790642c509bff3eac96a183a225866b66216a6e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444a414e474f2d302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f26636f6c6f723d303932453230266c6f676f436f6c6f723d7768697465" width="80px" height="80px">
+        <img src="https://www.flaticon.com/premium-icon/icons/svg/4248/4248443.svg" width="80px" height="80px">
         
 </div>
 
@@ -87,3 +88,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">
 
 <hr>
+
+<img src="https://raw.githubusercontent.com/asishraz/UI_revision/master/Portfolio/end.gif" width="100%">

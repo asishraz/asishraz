@@ -105,7 +105,7 @@
 <hr>
 
 <hr>
-<a href="#home"> Back To Top </a>
+<a href="#home"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back To Top </a>
 <hr>
 
 <img src="https://raw.githubusercontent.com/asishraz/UI_revision/master/Portfolio/end.gif" width="100%">

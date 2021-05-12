@@ -72,7 +72,7 @@
         Email me at👉<b><i>'iamasish3001@gmail.com'</i></b>
         <br>
         <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1620743054~hmac=3adeea8afe98c7c7bbc623eb3ba9f6b3" width="20px">
-        Know my work experience at 👉<b><i>'https://www.linkedin.com/in/asish-raz-75b38411b/'</i></b>
+        Know my work experience at 👉<a href="https://www.linkedin.com/in/asish-raz-75b38411b/" target="_blank"><i>'https://www.linkedin.com/in/asish-raz-75b38411b/'</i></a>
         <br>
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="20px">
         Read my stuff at 👉<b><i>'https://asishraz.medium.com/'</i></b>

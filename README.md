@@ -66,9 +66,9 @@
 </div>
 <hr>
 
-<div>
+<div id="email">
         <h2>📫 How to reach me: </h2>
-        <img id="email" src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="20px" alt="gmail"> 
+        <img  src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="20px" alt="gmail"> 
         Email me at👉<b><i>'iamasish3001@gmail.com'</i></b>
         <br>
         <img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128329.svg" width="20px" alt="linkedin">

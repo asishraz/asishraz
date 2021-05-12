@@ -28,10 +28,10 @@
 
 <div> 
         <h2> My Short Intro: </h2>
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Software Developer with a huge interest in Web Designing 🕸 </h4> 
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Tendency of solving problems with the programming mindset 🧠 </h4>
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Core Interest in CSS and Javascript ⚙ </h4>
-                <h4> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Looking for the opportunities where I can expand my learnings and improve my vision of execution. </h4>
+                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Software Developer with a huge interest in Web Designing 🕸 </h3> 
+                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Tendency of solving problems with the programming mindset 🧠 </h3>
+                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Core Interest in CSS and Javascript ⚙ </h3>
+                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Looking for the opportunities where I can expand my learnings and improve my vision of execution. </h3>
 </div>
 <hr>
 
@@ -98,6 +98,7 @@
         <li> 🚴‍ Finished <b>100Kms</b> cycle marathon in 6 hrs</li>
         <li> 🎙 Performed few storytelling and open mic events </li>
 </ul>
+<hr>
 
 <h2> 👇 Let me know, in case you need further details: 🙌 <blockquote> iamasish3001@gmail.com </blockquote></h2>
 <br>

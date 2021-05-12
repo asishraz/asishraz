@@ -57,12 +57,12 @@
 
 <div>
         <h2> More About ME: 👇 </h2>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on Frontend Development</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 I’m exploring every dimension of Web Designing</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 I’m looking to collaborate on Remote work in the Web Designing domain</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I’m looking for help in getting some new opportunities</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about UI/UX or anything related to Front-end related stuff</h4>
-        <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ⚡ Fun fact: Love to think fundamentally about anything. </h4>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on Frontend Development</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 Exploring every dimension of Web Designing</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking to collaborate on Remote work in the Web Designing domain</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 Looking for help in getting some new opportunities</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me about UI/UX or anything related to Front-end related stuff</h3>
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ⚡ Fun fact: Love to think fundamentally about anything. </h3>
 </div>
 <hr>
 

@@ -13,7 +13,7 @@
         Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
 <hr>
-<h2> My name is Asish and I am from Patna, Bihar 🏙 🌆 </h2>
+<h2> My name is <b> Asish</b> and I am from <i>Patna, Bihar</i> 🏙 🌆 </h2>
 
 <hr>
 
@@ -93,9 +93,9 @@
 
 <h2> Few Achievments: </h2>
 <ul> 
-        <li> 🥇 Won a Hackathon held by Gojek </li>
-        <li> 👨‍ Been Culture Manager alognwith Developer in my first startup </li>
-        <li> 🚴‍ Finished 100Kms cycle marathon in 6 hrs</li>
+        <li> 🥇 Won a <b> Hackathon </b> held by Gojek </li>
+        <li> 👨‍ Been <b>Culture Manager</b> alognwith Developer in my first startup </li>
+        <li> 🚴‍ Finished <b>100Kms</b> cycle marathon in 6 hrs</li>
         <li> 🎙 Performed few storytelling and open mic events </li>
 </ul>
 

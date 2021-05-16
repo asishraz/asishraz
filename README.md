@@ -81,6 +81,7 @@
         <img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128310.svg" width="20px" alt="twitter">
         Tech and Fun 👉<b><i>'https://twitter.com/thegareebcoder</i></b>
         <br>
+        <a href="https://twitter.com/thegareebcoder"><img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128310.svg" width="80px" alt="twitter"> </a>
         
 </div>
 <hr>

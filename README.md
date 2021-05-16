@@ -72,20 +72,11 @@
         <img  src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="20px" alt="gmail"> 
         Email me at👉<b><i>'iamasish3001@gmail.com'</i></b>
         <br>
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128329.svg" width="20px" alt="linkedin">
-        Know my work experience at 👉<a href="https://www.linkedin.com/in/asish-raz-75b38411b/" target="_blank"><i>'https://www.linkedin.com/in/asish-raz-75b38411b/'</i></a>
-        <br>
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="20px" alt="medium">
-        Read my stuff at 👉<b><i>'https://asishraz.medium.com/'</i></b>
-        <br>
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128310.svg" width="20px" alt="twitter">
-        Tech and Fun 👉<b><i>'https://twitter.com/thegareebcoder</i></b>
-        <br>
         <hr>
+        <h2>📫 My other social handles: </h2>
         <a href="https://twitter.com/thegareebcoder"><img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128310.svg" width="80px" alt="twitter"> </a>
-        <a href="iamasish3001@gmail.com"><img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="80px" alt="twitter"> </a>
-        <a href="https://www.linkedin.com/in/asish-raz-75b38411b/"><img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128329.svg" width="80px" alt="twitter"> </a>
-        <a href="https://asishraz.medium.com/"><img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="80px" alt="twitter"> </a>
+        <a href="https://www.linkedin.com/in/asish-raz-75b38411b/"><img src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128329.svg" width="80px" alt="linkedin"> </a>
+        <a href="https://asishraz.medium.com/"><img src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" width="80px" alt="medium"> </a>
         
 </div>
 <hr>

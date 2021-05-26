@@ -1,6 +1,5 @@
 <hr>
-<img src="https://raw.githubusercontent.com/asishraz/UI_revision/master/Portfolio/text.gif">
-<hr>
+
 
 <div id="home">
         <img src="https://avatars.githubusercontent.com/u/43290043?s=400&u=f89c10cd6eed00928f6e23c2e1d47f4d8f6bc57d&v=4" alt="waylon walker header" width="220px">
@@ -13,9 +12,6 @@
         Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
 <hr>
-<h2> <img src="https://github.com/asishraz/UI_revision/blob/master/Portfolio/typewriter_text.gif?raw=true" width="100%"> </h2>
-
-<hr>
 
 
 
@@ -27,11 +23,7 @@
 
 
 <div> 
-        <h2> My Short Intro: </h2>
-                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Software Developer with a huge interest in Web Designing.</h3> 
-                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Tendency of solving problems with the programming mindset.</h3>
-                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Core Interest in CSS and Javascript.</h3>
-                <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📌 Looking for the opportunities where I can expand my learnings and improve my vision of execution. </h3>
+        
 </div>
 <hr>
 

@@ -8,7 +8,7 @@
         
 </div>
 
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<h1 style="text-align:center;"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 </h1>
 <hr>
@@ -16,7 +16,8 @@
 <!-- for showing top 5 languages used in github -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
 <div> 
-        <h1> 🧬 SKILLS: 🛠️ </h1> 
+        <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           
+                🧬 SKILLS: 🛠️ </h1> 
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183671.svg" width="80px" alt="html">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/802/802251.svg" width="80px" alt="css">
         <img src="https://as2.ftcdn.net/v2/jpg/03/54/34/61/1000_F_354346144_arRFgI0ERvutnKajTVEnKMaI1DEbNwMo.jpg" width="80px" alt="js">
@@ -37,11 +38,8 @@
         
 </div>
 
-
-<hr color="white">
-
 <div>
-        <h2> More About ME: 👇 </h2>
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some more Info: </h2>
         <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on Frontend Development</h3>
         <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🌱 Exploring every dimension of Web Designing</h3>
         <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👯 Looking to collaborate on Remote work in the Web Designing domain</h3>
@@ -75,9 +73,6 @@
 
 <h2> For email:👉<a href="mailto:iamasish3001@gmail.com"> <img  src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="50px" alt="gmail"> </a> </p></h2>
 <br>
-<hr>
-
-<hr>
 <a href="#home"><g-emoji class="g-emoji" alias="arrow_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b06.png">⬆</g-emoji> Back To Top </a>
 <hr>
 

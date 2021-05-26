@@ -59,11 +59,8 @@
 </div>
 
 <hr>
-
-<h2> My Github Stats </h2>
-<hr>
-
-<img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">
+                <!--my github stats -->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">-->
 
 <hr>
 

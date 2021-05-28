@@ -6,9 +6,6 @@
         <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="220px">
         
 </div>
-
-     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-</h1>
 <hr>
 
 <!-- for showing top 5 languages used in github -->

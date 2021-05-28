@@ -2,7 +2,6 @@
 
 
 <div id="home">
-        <img src="https://avatars.githubusercontent.com/u/43290043?s=400&u=f89c10cd6eed00928f6e23c2e1d47f4d8f6bc57d&v=4" alt="waylon walker header" width="220px">
         <img src="https://media4.giphy.com/media/5XgKMD8Zqi405fw6CD/giphy.gif?cid=790b76119ab5810bf024fb24fae6a635bec078fe459cd345&rid=giphy.gif&ct=g" width="420px" height="240px">
         <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="220px">
         
@@ -15,9 +14,7 @@
 
 <!-- for showing top 5 languages used in github -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
-<div> 
-        <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           
-                🧬 SKILLS: 🛠️ </h1> 
+<div>  
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183671.svg" width="80px" alt="html">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/802/802251.svg" width="80px" alt="css">
         <img src="https://as2.ftcdn.net/v2/jpg/03/54/34/61/1000_F_354346144_arRFgI0ERvutnKajTVEnKMaI1DEbNwMo.jpg" width="80px" alt="js">
@@ -60,15 +57,6 @@
                 <!--my github stats -->
 <!--<img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">-->
 
-<hr>
-
-<h2> Few Achievments: </h2>
-<ul> 
-        <li> 🥇 Won a <b> Hackathon </b> held by Gojek </li>
-        <li> 👨‍ Been <b>Culture Manager</b> alognwith Developer in my first startup </li>
-        <li> 🚴‍ Finished <b>100Kms</b> cycle marathon in 6 hrs</li>
-        <li> 🎙 Performed few storytelling and open mic events </li>
-</ul>
 <hr>
 
 <h2> For email:👉<a href="mailto:iamasish3001@gmail.com"> <img  src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="50px" alt="gmail"> </a> </p></h2>

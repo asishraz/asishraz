@@ -6,14 +6,13 @@
         <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="220px">
         
 </div>
+<hr/>
+
+
 
 <!-- For top language stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
 
-<!--  for adding more language to the above link -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz&langs_count=9)](https://github.com/asishraz/github-readme-stats)
-
-<hr>
 
 <!-- for showing top 5 languages used in github -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
@@ -35,8 +34,14 @@
         <img src="https://www.flaticon.com/premium-icon/icons/svg/4248/4248443.svg" width="80px" height="80px" alt="sql">
 <!--         <img src="https://image.shutterstock.com/image-vector/node-js-framework-web-development-600w-1740811286.jpg" width="80px" height="80px" alt="node"> -->
         <br>
-        
+        <hr>
 </div>
+
+<!--  for adding more language to the above link -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz&hide=python,html&langs_count=4&layout=compact)](https://github.com/asishraz/github-readme-stats)
+     
+
+
 
 <div>
         <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some more Info: </h2>
@@ -56,8 +61,14 @@
         <a href="https://asishraz.medium.com/"><img src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" style="max-width:100%;" alt="medium"> </a>
 </div>
 
+<!-- for longest streak and current streak  -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asishraz)](https://git.io/streak-stats) -->
+<hr/>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asishraz&theme=blue-green)](https://git.io/streak-stats)
 <hr>
-                <!--my github stats -->
+<!--my github stats -->
 <!--<img src="https://github-readme-stats.vercel.app/api?username=asishraz&show_icons=true&theme=radical">-->
 
 <hr>

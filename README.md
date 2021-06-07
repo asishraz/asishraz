@@ -6,6 +6,13 @@
         <img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=790b7611edc49bf8eb40ebda855da0acd712d4088cc6b656&rid=giphy.gif&ct=g" width="220px">
         
 </div>
+
+<!-- For top language stats -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz)](https://github.com/asishraz/github-readme-stats) -->
+
+<!--  for adding more language to the above link -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz&langs_count=9)](https://github.com/asishraz/github-readme-stats)
+
 <hr>
 
 <!-- for showing top 5 languages used in github -->

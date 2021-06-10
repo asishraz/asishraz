@@ -8,6 +8,9 @@
 </div>
 <hr/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/asishraz/github-readme-quotes)
+
+
 
 
 

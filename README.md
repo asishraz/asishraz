@@ -50,8 +50,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asishraz&hide=python,html&langs_count=4&layout=compact)](https://github.com/asishraz/github-readme-stats)
      
 
-
-
 <div>
         <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Some more Info: </h2>
         <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 🔭 I’m currently working on Frontend Development</h3>
@@ -82,7 +80,7 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=asishraz)
+#################################################![](https://komarev.com/ghpvc/?username=asishraz)#####################################################################
 
 <h2> For email:👉<a href="mailto:iamasish3001@gmail.com"> <img  src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="50px" alt="gmail"> </a> </p></h2>
 <br>

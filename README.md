@@ -80,7 +80,7 @@
 
 <hr>
 
-#################################################![](https://komarev.com/ghpvc/?username=asishraz)#####################################################################
+####################################![](https://komarev.com/ghpvc/?username=asishraz)#############################################
 
 <h2> For email:👉<a href="mailto:iamasish3001@gmail.com"> <img  src="https://www.flaticon.com/premium-icon/icons/svg/3128/3128267.svg" width="50px" alt="gmail"> </a> </p></h2>
 <br>

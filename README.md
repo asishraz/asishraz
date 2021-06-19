@@ -38,7 +38,7 @@
         <img src="https://camo.githubusercontent.com/c9085081b7739325b22707924c5f51e4628b16a5f2f5fd93dff03310734ff5bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424f4f5453545241502d302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f74737472617026636f6c6f723d353633443743266c6f676f436f6c6f723d7768697465" width="80px"height="80px" alt="bootstrap">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183673.svg" width="80px" alt="vuejs">
         <br>
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/4300/4300536.svg" width="80px" alt="typescript">
+<!--         <img src="https://www.flaticon.com/premium-icon/icons/svg/4300/4300536.svg" width="80px" alt="typescript"> -->
 <!--         <img src="https://camo.githubusercontent.com/d3b17e5f763adf2eaaa9e6ca790642c509bff3eac96a183a225866b66216a6e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444a414e474f2d302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f26636f6c6f723d303932453230266c6f676f436f6c6f723d7768697465" width="80px" height="80px" alt="django"> -->
         <img src="https://www.flaticon.com/premium-icon/icons/svg/4248/4248443.svg" width="80px" height="80px" alt="sql">
 <!--         <img src="https://image.shutterstock.com/image-vector/node-js-framework-web-development-600w-1740811286.jpg" width="80px" height="80px" alt="node"> -->

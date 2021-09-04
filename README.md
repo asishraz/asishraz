@@ -27,7 +27,7 @@
         <img src="https://www.flaticon.com/premium-icon/icons/svg/3098/3098090.svg" width="80px" alt="python">
         <br>
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1493/1493169.svg" width="80px" alt="api">
-        <img src="https://camo.githubusercontent.com/c9085081b7739325b22707924c5f51e4628b16a5f2f5fd93dff03310734ff5bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424f4f5453545241502d302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f74737472617026636f6c6f723d353633443743266c6f676f436f6c6f723d7768697465" width="80px"height="80px" alt="bootstrap">
+<!--         <img src="https://camo.githubusercontent.com/c9085081b7739325b22707924c5f51e4628b16a5f2f5fd93dff03310734ff5bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f424f4f5453545241502d302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f74737472617026636f6c6f723d353633443743266c6f676f436f6c6f723d7768697465" width="80px"height="80px" alt="bootstrap"> -->
         <img src="https://www.flaticon.com/premium-icon/icons/svg/1183/1183673.svg" width="80px" alt="vuejs">
         <br>
 <!--         <img src="https://www.flaticon.com/premium-icon/icons/svg/4300/4300536.svg" width="80px" alt="typescript"> -->
